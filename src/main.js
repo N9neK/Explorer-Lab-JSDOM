@@ -10,6 +10,8 @@ function setCardType(type) {
     mastercard: ["#DF6F29", "#C69347"],
     elo: ["#00a4e0", "#ef4123"],
     cielo: ["#00AEEF", "#333333"],
+    bb: ["#33348E", "#F3D11C"],
+    santander: ["#EA1D25", "#333333"],
     default: ["black", "gray"]
   }
 
@@ -18,4 +20,4 @@ function setCardType(type) {
   ccLogo.setAttribute("src", `cc-${type}.svg`)
 }
 
-setCardType("elo")
+setCardType("bb")
