@@ -16,12 +16,12 @@ form label {
   line-height: 1.5rem;
   letter-spacing: 0.01px;
   text-transform: uppercase;
-  color: #e1e1e6;
+  color: #d4d4d8;
 }
 
 form input {
-  background: #121214;
-  border: 1px solid #323238;
+  background: #18181b;
+  border: 1px solid #3f3f46;
   border-radius: 6px;
   height: 41px;
   padding-inline: 1.2rem;
@@ -48,7 +48,7 @@ form button {
   align-items: center;
   padding: 1.6rem 0;
 
-  background: #42d3ff;
+  background: #67e8f9;
   border-radius: 0.6rem;
 
   cursor: pointer;
@@ -58,7 +58,7 @@ form button {
   font-weight: 700;
   font-size: 1.4rem;
   line-height: 1.7rem;
-  color: #121212;
+  color: #164e63;
 
   transition: filter 0.3s;
 }
